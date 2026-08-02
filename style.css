@@ -1,3 +1,7 @@
+button, a {
+    -webkit-tap-highlight-color: transparent;
+}
+
 body {
     background-color: #2b2b2b;
     margin: 0;
